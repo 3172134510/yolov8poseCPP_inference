@@ -1,0 +1,2 @@
+# yolov8poseCPP_inference
+根据yolov8官网代码修改成pose版本
